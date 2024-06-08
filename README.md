@@ -19,3 +19,14 @@ The boilerplates should contain the following
 - Waitlist
 - Migrations
 - Blog
+- Documentation on how to use each feature deeply
+
+# Notes
+Each boilerplate must contain instructions on how to keep your code as decoupled as possible, so it is easy to remove things not needed. Each boilerplate must contain the standards used in coding. Each boilerplate must contain a license file.
+
+# How to contribute code
+
+
+
+# References
+(1) https://www.codecademy.com/resources/docs/contribution-guide
