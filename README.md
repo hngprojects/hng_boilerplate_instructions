@@ -7,6 +7,15 @@ The purpose of the HNG boilerplates is to create repositories for particular pro
 The boilerplates should contain the following
 
 - A proper structure of the project according to the norms of the framework
-- Authentication
-- Messaging (email), including default templates
-- Payments (Stripe, Flutterwave integration)
+- Authentication (including social authentication) + magic link authentication
+- Messaging (email), including default templates and using background processes
+- Payments (Stripe, Flutterwave integration, LemonSqueezy)
+- Users & Organisations
+- AI Integration
+- Admin interface
+- Settings page
+- Landing page
+- Database
+- Waitlist
+- Migrations
+- Blog
