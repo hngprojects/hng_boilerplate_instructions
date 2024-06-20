@@ -17,6 +17,7 @@ The boilerplates should contain the following
 - Landing page
 - Database
 - Waitlist
+- Invite flow
 - Migrations
 - Blog
 - Documentation on how to use each feature deeply
