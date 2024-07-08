@@ -7,21 +7,35 @@ The purpose of the HNG boilerplates is to create repositories for particular pro
 The boilerplates should contain the following
 
 - A proper structure of the project according to the norms of the framework
-- Authentication (including social authentication) + magic link authentication
+- Authentication (including social authentication) + magic link authentication + in-app authentication screens (e.g change password)
 - Messaging (email), including default templates and using background processes
-- Payments (Stripe, Flutterwave integration, LemonSqueezy)
+- Payments (Stripe, Flutterwave integration, LemonSqueezy), internal and external
 - Users & Organisations
-- AI Integration
-- Admin interface
+- Manage Users
+- Superadmin interface (users, orgs, payments, activity log)
 - Settings page
-- Landing page
-- Database
-- Waitlist
+- Profile Settings
+- Landing page (various, e.g privacy policy, about us)
+- Contact Us
+- GPDR cookies
+- Basic Dashboard
+- Waitlist (coming sooon)
+- Squeeze / Marketing Page
 - Invite flow
-- Migrations
+- User data export
+- Notifications
 - Blog
-- Documentation on how to use each feature deeply
+- Invite Link
+- Language and Region
 
+## No UI
+- Database
+- Documentation on how to use each feature deeply
+- AI Integration
+- Migrations
+- Recommendations
+- Activity Log
+  
 # Notes
 Each boilerplate must contain instructions on how to keep your code as decoupled as possible, so it is easy to remove things not needed. Each boilerplate must contain the standards used in coding. Each boilerplate must contain a license file.
 
