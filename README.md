@@ -32,6 +32,7 @@ The boilerplates should contain the following
 - Blog
 - Invite Link
 - Language and Region
+- Email Template Management in the Superadmin (html)
 
 ## No UI
 - Database
@@ -40,6 +41,7 @@ The boilerplates should contain the following
 - Migrations
 - Recommendations
 - Activity Log
+- Push Notifications
   
 # Notes
 Each boilerplate must contain instructions on how to keep your code as decoupled as possible, so it is easy to remove things not needed. Each boilerplate must contain the standards used in coding. Each boilerplate must contain a license file.
