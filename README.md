@@ -23,6 +23,11 @@ The boilerplates should contain the following
 - Squeeze / Marketing Page
 - Invite flow
 - User data export
+- Random Data associated to user + List of Random Data on the Dashboard - e.g Widgets in System.
+- View of Single Data - e.g a single Widget associated with a user
+- Other Data List with Search + Sorting
+- Chart page with chart of data
+- Content Edit Page
 - Notifications
 - Blog
 - Invite Link
